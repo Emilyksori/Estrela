@@ -14,7 +14,6 @@
 <hr>
 
 <br>
-<br>
 
 # **ANÁLISE DE DADOS**
 
